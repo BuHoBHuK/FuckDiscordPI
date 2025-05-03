@@ -1,1 +1,2 @@
+https://github.com/YanGusik/FuckDiscordPI.git
 v.3.1.0
